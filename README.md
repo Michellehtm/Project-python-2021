@@ -38,3 +38,5 @@ Pip install flask_bootstrap
 
 For this API, we had a problem with the redirect at the end of the function Preduction... so we haven't been able to make sure that everything works well.
 Nevertheless, the code is supposed to be right.
+
+If you can't find the API folder, download it from here :  https://we.tl/t-sG5pSN1fEp
