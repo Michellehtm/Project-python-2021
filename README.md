@@ -27,9 +27,13 @@ Pip install flask => flask api
 Activate the virtual env : source ./monenv/bin/activate
 
 Module to install : 
+
 Pip install joblib
+
 Pip install pandas
+
 Pip install flask_wtf
+
 Pip install flask_bootstrap
 
 For this API, we had a problem with the redirect at the end of the function Preduction... so we haven't been able to make sure that everything works well.
