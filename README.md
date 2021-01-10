@@ -4,7 +4,7 @@ Analysis of the Seoul Bike Rentals dataset with python.
 #####################
 Code (Jupyter Notebook):
 
-Download the dataset : https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+If neededownload the dataset : https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
 
 Set the dataset’s path in the input 2 cell. 
 
@@ -18,3 +18,16 @@ Now you just have to run everything.
 
 #####################
 API :
+
+Clone code : git {{url}} 
+Cd directory of repo 
+
+Pip install flask => flask api
+
+Activate the virtual env : source ./monenv/bin/activate
+
+Module to install : 
+Pip install joblib
+Pip install pandas
+Pip install flask_wtf
+Pip install flask_bootstrap
