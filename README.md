@@ -31,3 +31,6 @@ Pip install joblib
 Pip install pandas
 Pip install flask_wtf
 Pip install flask_bootstrap
+
+For this API, we had a problem with the redirect at the end of the function Preduction... so we haven't been able to make sure that everything works well.
+Nevertheless, the code is supposed to be right.
