@@ -4,7 +4,7 @@ Analysis of the Seoul Bike Rentals dataset with python.
 #####################
 Code (Jupyter Notebook):
 
-If neededownload the dataset : https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+If needed, download the dataset : https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
 
 Set the dataset’s path in the input 2 cell. 
 
